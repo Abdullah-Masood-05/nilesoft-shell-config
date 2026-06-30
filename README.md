@@ -31,13 +31,11 @@ this config adds three polished submenus, all using crisp built‑in vector icon
 
 > The menu is themed with the **modern** dark theme, tip popups, and subtle show‑delay for a native Windows 11 feel.
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-<!-- Drop your own screenshots into assets/ and reference them here, e.g.:
-<img src="assets/menu.png" width="320" alt="Right-click menu" />
--->
-
-_Add a screenshot of your right‑click menu here (`assets/menu.png`)._
+<div align="center">
+  <img src="assets/menu.png" width="300" alt="The customized Windows 11 right-click context menu" />
+</div>
 
 ## ✅ Requirements
 
