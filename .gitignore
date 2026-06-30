@@ -1,0 +1,13 @@
+# Inno Setup build output (the compiled installer is published to Releases, not committed)
+installer/Output/
+*.iss.bak
+
+# OS / editor cruft
+Thumbs.db
+Desktop.ini
+.DS_Store
+.vscode/
+.idea/
+
+# Local backups created by install.ps1 when run in this folder
+config-backup-*/
